@@ -1,0 +1,9 @@
+# Ignorer les fichiers système
+*.log
+*.ini
+
+# Ignorer les dossiers
+.vscode/
+.idea/
+node_modules/
+.DS_Store
